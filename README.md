@@ -1,3 +1,4 @@
+<img width="739" height="1600" alt="ListaDeCompras-APP" src="https://github.com/user-attachments/assets/b1241f5a-f9d3-44cd-97b4-f7ec38c37f7a" />
 # 🛒 Lista de Compras (Comprar)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
